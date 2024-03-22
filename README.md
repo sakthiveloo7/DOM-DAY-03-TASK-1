@@ -1,4 +1,4 @@
-# DOM DAY 03 TASK-1 PAGINATION FOR GIVEN JSON  DATAS
+# DOM DAY 03 TASK-1 
 
   - This is a repository created for submitting my task.
   - Design a Pagination in DOM manipulation.
